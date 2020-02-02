@@ -7,7 +7,7 @@ Ders, **GNU Octave** üzerinden işlenmektedir.
 
 Notlar jupyter-notebook'la hazırlanmış olup, ipynb biçiminin yanısıra m, html ve PDF çıktıları da mevcuttur.
 
-https://github.com/emresururi/FIZ219 adresinden dosyaların kaynaklarına, https://emresururi.github.io/FIZ219/ adresinden ise işlenmiş HTML sayfalarına ulaşabilirsiniz.
+[https://github.com/emresururi/FIZ219](https://github.com/emresururi/FIZ219) adresinden dosyaların kaynaklarına, [https://emresururi.github.io/FIZ219/](https://emresururi.github.io/FIZ219/) adresinden ise işlenmiş HTML sayfalarına ulaşabilirsiniz.
 
 Uygulama#|Başlık
 ---:|---
