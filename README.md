@@ -3,7 +3,7 @@
 
 Dr. Emre S. Taşcı tarafından Hacettepe Üniversitesi Fizik Mühendisliği Bölümü'nde 2019-2020 Güz döneminde verilmeye başlanan _"FİZ219 - Bilgisayar Programlama I"_ dersi için oluşturulmuş uygulama notları.
 
-Ders, GNU Octave üzerinden işlenmiştir.
+Ders, **GNU Octave** üzerinden işlenmektedir.
 
 Notlar jupyter-notebook'la hazırlanmış olup, ipynb biçiminin yanısıra m, html ve PDF çıktıları da mevcuttur.
 
