@@ -13405,7 +13405,7 @@ n =  2.8902
 </li>
 <li><p>$\left(\sum_{i=1}^N 2\right) = 2N$ veya $\left(\sum_{i=1}^N 2x_i\right) = 2\left(\sum_{i=1}^N x_i\right)$ olduğunu ben de biliyorum, gelin görün ki, her şeyi en açık haliyle göstermek istedim. ;)</p>
 </li>
-<li><p>Normalde, N bilinmeyenli N denklemi bu şekilde kafa göz yara yara / göstere göstere çözmüyoruz. Bu işi en optimize şekliyle çözmek için yazılmış <a href="http://octave.org/doc/interpreter/Basic-Matrix-Functions.html#Basic-Matrix-Functions">komutlar</a> ("A <em> x = b" şeklindeki lineer denklem setini çözmek için linsolve, 'A\b' operatörü, haydi hiçbiri olmadı, körlemesine inv(A)\</em>b) ve epey sağlam paketler (örn. <a href="http://www.netlib.org/lapack/">LAPACK</a>) var, ama temelden çalıştığımız için açık açık çözdüm bu seferlik. 8)</p>
+<li><p>Normalde, N bilinmeyenli N denklemi bu şekilde kafa göz yara yara / göstere göstere çözmüyoruz. Bu işi en optimize şekliyle çözmek için yazılmış <a href="http://octave.org/doc/interpreter/Basic-Matrix-Functions.html#Basic-Matrix-Functions">komutlar</a> ("A <em> x = b" şeklindeki lineer denklem setini çözmek için linsolve, 'A\b' operatörü, haydi hiçbiri olmadı, körlemesine inv(A)*</em>b) ve epey sağlam paketler (örn. <a href="http://www.netlib.org/lapack/">LAPACK</a>) var, ama temelden çalıştığımız için açık açık çözdüm bu seferlik. 8)</p>
 </li>
 <li><p>Lineer denklem çözmeyi boşverin, elinizdeki fonksiyonu (bizim bu örneğimizde hatalar toplamı <code>S</code> fonksiyonunu) minimize edecek değerleri doğrudan hesaplayan ve yine süper optimize komutlar da mevcut (misal: <a href="https://octave.org/doc/v4.0.1/Minimizers.html">fminunc ve arkadaşları</a>).</p>
 </li>
