@@ -7,6 +7,8 @@ Ders, **GNU Octave** üzerinden işlenmektedir.
 
 Notlar jupyter-notebook'la hazırlanmış olup, ipynb biçiminin yanısıra m, html ve PDF çıktıları da mevcuttur.
 
+[https://github.com/emresururi/FIZ219] adresinden dosyaların kaynaklarına, [https://emresururi.github.io/FIZ219/] adresinden ise işlenmiş HTML sayfalarına ulaşabilirsiniz.
+
 Uygulama#|Başlık
 ---:|---
 4|[Döngü ve karar prosedürleri](FIZ219_EST_UygulamaNotlari_04_for_while_if.html){:target="ders"}
