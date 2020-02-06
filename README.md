@@ -20,6 +20,7 @@ Uygulama#|Başlık
 10|[Gauss eleme yöntemi ile n bilinmeyenli n -doğrusal- denklemin çözümü](FIZ219_EST_UygulamaNotlari_10_Gauss_Eleme_Yontemi_ile_nxn_Dogrusal_Denklem_Cozumu.html){:target="ders"}
 11|[2. Ara Sınav (20/02/2020)](FIZ219_EST_UygulamaNotlari_11_AraSinav2.html){:target="ders"}
 12|[String değişkenleri](FIZ219_EST_UygulamaNotlari_12_String_Degiskenleri.html){:target="ders"}
+13|[Hücre Dizileri](FIZ219_EST_UygulamaNotlari_13_Hucre_Dizileri.html){:target="ders"}
 
 Ders notları asıl olarak Atlassian - BitBucket'ta özel bir repository'de geliştirilmekte olup, buraya (github'a) genelde son halleri işlendiğinden dolayı buradaki değişiklikler/düzeltmeler az olacaktır.
 
