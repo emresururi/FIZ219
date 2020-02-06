@@ -24,6 +24,6 @@ Uygulama#|Başlık
 
 Ders notları asıl olarak Atlassian - BitBucket'ta özel bir repository'de geliştirilmekte olup, buraya (github'a) genelde son halleri işlendiğinden dolayı buradaki değişiklikler/düzeltmeler az olacaktır.
 
-Pek çok şeyin yanısıra, kaynak gösterilmeden kullanılması mevcut lisans anlaşmasına (GPL) aykırıdır.
+Pek çok şeyin yanısıra, kaynak gösterilmeden kullanılması [mevcut lisans anlaşmasına (GPL)](http://ozgurlisanslar.org.tr/gpl/gpl-v3/) aykırıdır.
 
 Emre S. Taşcı <emre.tasci@hacettepe.edu.tr>
