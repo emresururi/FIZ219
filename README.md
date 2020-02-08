@@ -1,7 +1,7 @@
 # FIZ219
 **FIZ219 - Bilgisayar Programlama I Dersi Uygulama Notları**
 
-Dr. Emre S. Taşcı tarafından Hacettepe Üniversitesi Fizik Mühendisliği Bölümü'nde 2019-2020 Güz döneminde verilmeye başlanan _"FİZ219 - Bilgisayar Programlama I"_ dersi için oluşturulmuş uygulama notları.
+Dr. Emre S. Taşcı tarafından Hacettepe Üniversitesi Fizik Mühendisliği Bölümü'nde 2019-2020 Güz döneminde verilmiş olan _"FİZ219 - Bilgisayar Programlama I"_ dersi için oluşturulmuş uygulama notları.
 
 Ders, **GNU Octave** üzerinden işlenmektedir.
 
@@ -18,9 +18,10 @@ Uygulama#|Başlık
 8|[Fonksiyonlar I: Giriş ve basit uygulamalar](FIZ219_EST_UygulamaNotlari_08_Fonksiyonlar_Giris_ve_Basit_Uygulamalar.html){:target="ders"}
 9|[Fonksiyonlar II: Eğik Atış Problemi](FIZ219_EST_UygulamaNotlari_09_Fonksiyonlar_Egik_Atis_Problemi.html){:target="ders"}
 10|[Gauss eleme yöntemi ile n bilinmeyenli n -doğrusal- denklemin çözümü](FIZ219_EST_UygulamaNotlari_10_Gauss_Eleme_Yontemi_ile_nxn_Dogrusal_Denklem_Cozumu.html){:target="ders"}
-11|[2. Ara Sınav (20/02/2020)](FIZ219_EST_UygulamaNotlari_11_AraSinav2.html){:target="ders"}
+11|[2. Ara Sınav (27/12/2019)](FIZ219_EST_UygulamaNotlari_11_AraSinav2.html){:target="ders"}
 12|[String değişkenleri](FIZ219_EST_UygulamaNotlari_12_String_Degiskenleri.html){:target="ders"}
 13|[Hücre Dizileri](FIZ219_EST_UygulamaNotlari_13_Hucre_Dizileri.html){:target="ders"}
+14|[Genel Sınav (30/01/2020)](FIZ219_EST_UygulamaNotlari_14_GenelSinav.html){:target="ders"}
 
 Ders notları asıl olarak Atlassian - BitBucket'ta özel bir repository'de geliştirilmekte olup, buraya (github'a) genelde son halleri işlendiğinden dolayı buradaki değişiklikler/düzeltmeler az olacaktır.
 
