@@ -11,6 +11,7 @@ Notlar jupyter-notebook'la hazırlanmış olup, ipynb biçiminin yanısıra m, h
 
 Uygulama#|Başlık
 ---:|---
+2|[Basit Değişkenler](FIZ219_EST_UygulamaNotlari_02_BasitDegiskenler.html){:target="ders"}
 4|[Döngü ve karar prosedürleri](FIZ219_EST_UygulamaNotlari_04_for_while_if.html){:target="ders"}
 5|[Döngü kullanarak, temel işlemlerle en küçük kareler yöntemi](FIZ219_EST_UygulamaNotlari_05_En_kucuk_kareler.html){:target="ders"}
 6|[1. Ara Sınav (15/11/2019)](FIZ219_EST_UygulamaNotlari_06_AraSinav1.html){:target="ders"}
