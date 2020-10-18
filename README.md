@@ -1,7 +1,7 @@
 # FIZ219
 **FIZ219 - Bilgisayar Programlama I Dersi Uygulama Notları**
 
-Dr. Emre S. Taşcı tarafından Hacettepe Üniversitesi Fizik Mühendisliği Bölümü'nde 2019-2020 Güz döneminde verilmiş olan _"FİZ219 - Bilgisayar Programlama I"_ dersi için oluşturulmuş uygulama notları.
+Dr. Emre S. Taşcı tarafından Hacettepe Üniversitesi Fizik Mühendisliği Bölümü'nde 2019-2020 Güz döneminde verilmiş olan _"FİZ219 - Bilgisayar Programlama I"_ dersi için oluşturulmuş uygulama notları (2020-2021 Güz döneminde ekleme ve düzenlemeler de yapılmaktadır).
 
 Ders, **GNU Octave** üzerinden işlenmiştir.
 
