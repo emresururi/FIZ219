@@ -23,6 +23,7 @@ Uygulama#|Başlık
 12|[String değişkenleri](FIZ219_EST_UygulamaNotlari_12_String_Degiskenleri.html){:target="ders"}
 13|[Hücre Dizileri](FIZ219_EST_UygulamaNotlari_13_Hucre_Dizileri.html){:target="ders"}
 14|[Genel Sınav (30/01/2020)](FIZ219_EST_UygulamaNotlari_14_GenelSinav.html){:target="ders"}
+15|[Bütünleme Sınavı (10/09/2020)](FIZ219_EST_UygulamaNotlari_15_ButunlemeSinavi.html){:target="ders"}
 
 Ders notları asıl olarak Atlassian - BitBucket'ta özel bir repository'de geliştirilmekte olup, buraya (github'a) genelde son halleri işlendiğinden dolayı buradaki değişiklikler/düzeltmeler az olacaktır.
 
