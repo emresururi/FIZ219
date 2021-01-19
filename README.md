@@ -17,8 +17,10 @@ Uygulama#|Başlık
 4(2)|[Grafik Çizimi](FIZ219_EST_UygulamaNotlari_04_2_GrafikCizimi.html){:target="ders"}
 5|[Döngü kullanarak, temel işlemlerle en küçük kareler yöntemi](FIZ219_EST_UygulamaNotlari_05_En_kucuk_kareler.html){:target="ders"}
 5(2)|[Döngü ve karar prosedürleri I](FIZ219_EST_UygulamaNotlari_05_02_DonguVeKararCumleleri_I.html){:target="ders"}
+5(2)|[Döngü ve karar prosedürleri I Ödevi : Asal Sayı Bulucu & "Kök Söktürücü"](FIZ219_EST_UygulamaNotlari_05_Odev_1_Cozumler.html){:target="ders"}
 6|[1. Ara Sınav (15/11/2019)](FIZ219_EST_UygulamaNotlari_06_AraSinav1.html){:target="ders"}
 7|[Monte Carlo yöntemi ile Pi sayısının kestirimi](FIZ219_EST_UygulamaNotlari_07_Monte_Carlo_Yontemi_ile_Pi.html){:target="ders"}
+7(2)|[Monte Carlo yöntemi ile Pi sayısının kestirimi Ödevi: Grafik, en küçük kareler yöntemi ve Monte Carlo ile integral alma](FIZ219_EST_UygulamaNotlari_08_Odev_2_Cozumlu.html){:target="ders"}
 8|[Fonksiyonlar I: Giriş ve basit uygulamalar](FIZ219_EST_UygulamaNotlari_08_Fonksiyonlar_Giris_ve_Basit_Uygulamalar.html){:target="ders"}
 9|[Fonksiyonlar II: Eğik Atış Problemi](FIZ219_EST_UygulamaNotlari_09_Fonksiyonlar_Egik_Atis_Problemi.html){:target="ders"}
 10|[Gauss eleme yöntemi ile n bilinmeyenli n -doğrusal- denklemin çözümü](FIZ219_EST_UygulamaNotlari_10_Gauss_Eleme_Yontemi_ile_nxn_Dogrusal_Denklem_Cozumu.html){:target="ders"}
@@ -26,6 +28,7 @@ Uygulama#|Başlık
 12|[String değişkenleri](FIZ219_EST_UygulamaNotlari_12_String_Degiskenleri.html){:target="ders"}
 13|[Hücre Dizileri](FIZ219_EST_UygulamaNotlari_13_Hucre_Dizileri.html){:target="ders"}
 14|[Genel Sınav (30/01/2020)](FIZ219_EST_UygulamaNotlari_14_GenelSinav.html){:target="ders"}
+14(2)|[Final Ödevi](FIZ219_EST_UygulamaNotlari_16_Odev_Final.html){:target="ders"}
 15|[Bütünleme Sınavı (10/09/2020)](FIZ219_EST_UygulamaNotlari_15_ButunlemeSinavi.html){:target="ders"}
 
 Ders notları asıl olarak Atlassian - BitBucket'ta özel bir repository'de geliştirilmekte olup, buraya (github'a) genelde son halleri işlendiğinden dolayı buradaki değişiklikler/düzeltmeler az olacaktır.
